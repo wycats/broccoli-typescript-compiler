@@ -1,0 +1,1 @@
+{"version":3,"file":"resolution-cache-delegate.js","sourceRoot":"","sources":["../../src/cache/resolution-cache-delegate.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,eAAe,CAAC;AAQpC,MAAM,CAAC,OAAO,OAAO,uBAAuB;IAEnC,QAAQ,CAAC,QAAkB;QAChC,OAAO,QAAQ,CAAC,aAAa,CAAC;IAChC,CAAC;IAEM,MAAM,CAAC,QAAkB;QAC9B,OAAO,OAAO,CAAC,QAAQ,CAAC,CAAC;IAC3B,CAAC;CACF"}

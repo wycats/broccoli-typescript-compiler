@@ -1,0 +1,1 @@
+{"version":3,"file":"directory-entries-cache.js","sourceRoot":"","sources":["../../src/cache/directory-entries-cache.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,UAAU,CAAC;AAE7B,OAAO,uBAAuB,MAAM,oCAAoC,CAAC;AAEzE,MAAM,CAAC,OAAO,OAAO,eAAgB,SAAQ,KAI5C;IACC,YAAY,QAAsB;QAChC,KAAK,CAAC,IAAI,uBAAuB,CAAC,QAAQ,CAAC,CAAC,CAAC;IAC/C,CAAC;CACF"}

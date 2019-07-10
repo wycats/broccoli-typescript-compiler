@@ -1,0 +1,1 @@
+{"version":3,"file":"resolution-cache.js","sourceRoot":"","sources":["../../src/cache/resolution-cache.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,UAAU,CAAC;AAE7B,OAAO,uBAAuB,MAAM,6BAA6B,CAAC;AAElE,MAAM,CAAC,OAAO,OAAO,eAAgB,SAAQ,KAI5C;IACC;QACE,KAAK,CAAC,IAAI,uBAAuB,EAAE,CAAC,CAAC;IACvC,CAAC;CACF"}
