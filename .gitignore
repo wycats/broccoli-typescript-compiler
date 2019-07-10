@@ -1,6 +1,5 @@
 /node_modules/
 /tmp/
 /fixtures/tmp/
-/dist/
 /scripts/*.js
 yarn-error.log
